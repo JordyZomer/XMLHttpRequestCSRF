@@ -19,7 +19,9 @@ The target file may look like the following:
 
 ```> cat targets.txt
 http://example.com
-https://domain.net```
+https://domain.net
+```
+
 
 # License
 
